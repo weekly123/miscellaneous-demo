@@ -14,7 +14,7 @@ import java.util.logging.SocketHandler;
 public class JavaUtilLoggingExample {
 
 	public static void main(String[] args) {
-		
+		//test
 
 	}
 
