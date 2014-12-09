@@ -4,7 +4,7 @@
   <artifactId>miscellaneous-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging> pom </packaging>  
-    <name>Account Aggregator</name>  
+    <name>miscellaneous-demo</name>  
      <modules>  
         <module>jmx-demo</module>  
         <module>java-util-logging-demo</module>  
