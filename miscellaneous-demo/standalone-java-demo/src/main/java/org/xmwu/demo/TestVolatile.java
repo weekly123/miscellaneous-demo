@@ -4,7 +4,7 @@ package org.xmwu.demo;
 /**
  * This class is a java volatile key word test.
  * If the attribute keepRunning is not volatile, this class will run  indefinitely on a server jvm ( specity -server vm parameter).
- * @author Administrator
+ * @author wxm
  *
  */
 class TestVolatile extends Thread {
