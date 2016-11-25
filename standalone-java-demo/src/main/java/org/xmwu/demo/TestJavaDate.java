@@ -1,14 +1,3 @@
-/**
- * Copyright (c) 2016,TravelSky. 
- * All Rights Reserved.
- * TravelSky CONFIDENTIAL
- * 
- * Project Name:standalone-java-demo
- * Package Name:org.xmwu.demo
- * File Name:TestJavaDate.java
- * Date:2016年7月25日 下午2:30:05
- * 
- */
 package org.xmwu.demo;
 
 import java.text.DateFormat;
@@ -22,10 +11,6 @@ import java.util.Date;
  * <br/>
  * 
  * @author xmwu(邮箱)
- * 
- * 修改记录
- * @version 产品版本信息 yyyy-mm-dd 姓名(邮箱) 修改信息<br/>
- * 
  */
 
 public class TestJavaDate {
